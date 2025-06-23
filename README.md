@@ -6,7 +6,8 @@
 
 _**Watch on Telegram as [RestrictionBot](https://t.me/SaveRestrictionsBot)**_
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NEON+SAVE+RESTRICTIONS+BOT+!;CREATED+BY+MYSELFNEON!;SAVE+RESTRICTIONS+BOT+!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=NEON+SAVE+RESTRICTIONS+BOT+!;CREATED+BY+MYSELFNEON+!;JOIN+TELEGRAM+@NEONFILES++!!&color=39FF14&center=true&vCenter=true&size=20)
+</p>
 <a href="https://github.com/myselfneon/SaveRestricted-Bot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 3.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
